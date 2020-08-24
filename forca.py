@@ -10,9 +10,8 @@ def jogar():
 
     while(not enforcou and not acertou):
 
-        chute = input("Qual letra?")
-        # para tirar os espaço do início e do final do que for digitado no input
-        chute = chute.strip()
+        chute = input("Qual letra?")        
+        chute = chute.strip() #para tirar os espaço do início e do final do que for digitado no input
 
         index = 0
 
