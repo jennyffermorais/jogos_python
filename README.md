@@ -1,4 +1,4 @@
-**
+
 
 ## Jogo de adivinhação e forca feitos com Python
 
